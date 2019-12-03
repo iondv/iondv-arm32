@@ -2,7 +2,7 @@
 
 ## About
 The context for building docker containers with arm32 version of [mongodb-3.2.12](https://hub.docker.com/r/iondv/arm32-mongodb)
- and iondv-basic (https://hub.docker.com/r/iondv/arm32-basic).
+ and [iondv-basic](https://hub.docker.com/r/iondv/arm32-basic).
  
  
 iondv/arm32-mongodb container is based on https://github.com/robertsLando/MongoDB-OrangePI mongodb binaries are provided under GNU AGPL v3.0
